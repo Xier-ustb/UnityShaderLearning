@@ -1,1 +1,1 @@
-UNITY内实现的shader截图，工程请在/master文件夹中查看
+UNITY内实现的shader截图，工程请master目录中查看
