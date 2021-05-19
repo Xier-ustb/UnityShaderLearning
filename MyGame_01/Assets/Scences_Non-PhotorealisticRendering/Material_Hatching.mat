@@ -40,27 +40,27 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch0:
-        m_Texture: {fileID: 2800000, guid: c190dbb0e7321b74f9d9d0d48ed12ae7, type: 3}
+        m_Texture: {fileID: 2800000, guid: 68f76150673acda47b8c5fc7777ceedb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch1:
-        m_Texture: {fileID: 2800000, guid: e3b7813106ee8b2449897d0e2905e5ba, type: 3}
+        m_Texture: {fileID: 2800000, guid: 82f9c422bfc3f5f4a939deb72ff276f0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch2:
-        m_Texture: {fileID: 2800000, guid: 42d0b318105dfff4ebd1fbb47f2588ba, type: 3}
+        m_Texture: {fileID: 2800000, guid: 11477304bb33be941a6fa92974598888, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch3:
-        m_Texture: {fileID: 2800000, guid: 23506295f068ed6418dde195f2fd99e5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3eee76a8a1cefbf4f906f148e166d708, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch4:
-        m_Texture: {fileID: 2800000, guid: 852ee964f45c0114c969293682ffe772, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3fac1f17ab148cf4d9a5ad56b57126c2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch5:
-        m_Texture: {fileID: 2800000, guid: f8a2e3e82b21bab4c8f713f2f9260ec3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 453b9d5cd47249e408342639a7e544ce, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:

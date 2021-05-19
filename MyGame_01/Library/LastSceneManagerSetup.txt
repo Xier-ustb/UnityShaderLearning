@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scences_Non-PhotorealisticRendering/Scene_NPR.unity
+- path: Assets/Scences_Transparent/Scene_Transparent.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

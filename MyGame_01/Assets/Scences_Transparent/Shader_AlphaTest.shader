@@ -17,7 +17,6 @@ Shader "Custom/Shader_AlphaTest"
                 "RenderType"="TransparentCutout" 
                 "IgnoreProjector"="True"
                 }
-        LOD 200
         Pass
         {
             Tags{"LightMode"="ForwardBase" }
