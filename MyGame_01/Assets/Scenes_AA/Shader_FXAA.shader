@@ -81,7 +81,6 @@
             {
                 float edge=Sobel(i);
                 //采用了旋转网格采样，最佳的旋转角度是arctan (1/2) (大约 26.6°)
-                //也可以采取别的采样方法，网上有很多算法
                 float4 c0 = tex2D(_MainTex, i.uv[4] + float2(0.2 / 2, 0.8)*_Size*_MainTex_TexelSize);
                 float4 c1 = tex2D(_MainTex, i.uv[4] + float2(0.8 / 2, -0.2)*_Size*_MainTex_TexelSize);
                 float4 c2 = tex2D(_MainTex, i.uv[4] + float2(-0.2 / 2, -0.8)*_Size*_MainTex_TexelSize);
